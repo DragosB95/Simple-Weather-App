@@ -70,6 +70,7 @@ main {
 .current .temperature {
     color: #fff;
     font-size: 102px;
+    font-weight: bold;
     margin: 1.9rem 0;
     text-shadow: 2px 8px rgba(0, 0, 0, 0.6)
 }
